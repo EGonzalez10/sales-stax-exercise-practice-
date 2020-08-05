@@ -48,3 +48,28 @@
     }
 
     adddingSalesTax(itemsPurchased)
+
+
+
+    var itemsImported = [
+        {
+            item: "imported box of chocolates",
+            amount: 1,
+            cost: 10.00,
+            costTax: .50,
+        },
+        {
+            item: "imported bottle of perfume",
+            amount: 1,
+            cost: 47.50,
+            costTax: 7.13
+        }
+    ]
+
+function
+
+
+
+
+
+})();
